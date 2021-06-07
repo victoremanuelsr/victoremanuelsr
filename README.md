@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello!🤙
 
-<!--
-**victoremanuelsr/victoremanuelsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Victor Emanuel**, how are you? Welcome to my profile!
+## About me
+👨🏾‍🎓 - I'm student in Analysis and System Development.
+💻 - Apprentice of Back-End.
+ 📌- Open to new challenges.
+ 📍 - From BA!
+ 
+🎯 *"Sometimes it is the people who no one imagines anything of who do the things that no one can imagine." - Alan Turing.*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+[![Linkedin Badge](https://img.shields.io/badge/-Victor%20Emanuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victoremanueldev/)](https://www.linkedin.com/in/victoremanueldev/)
